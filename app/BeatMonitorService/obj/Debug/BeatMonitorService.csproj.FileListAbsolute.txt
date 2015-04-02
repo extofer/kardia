@@ -1,0 +1,18 @@
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.pdb
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.BeatMonitor.resources
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.ProjectInstaller.resources
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.csproj.GenerateResource.Cache
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.exe
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.pdb
+C:\Programming\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.exe
+C:\Programming\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.pdb
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.pdb
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.BeatMonitor.resources
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.ProjectInstaller.resources
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.csproj.GenerateResource.Cache
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.exe
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonService\BeatMonService\bin\Debug\BeatMonService.exe
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonService\BeatMonService\bin\Debug\BeatMonService.pdb
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonService\BeatMonService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonService\BeatMonService\obj\Debug\BeatMonService.exe
+C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonService\BeatMonService\obj\Debug\BeatMonService.pdb
+C:\Programming\BeatMonService\BeatMonService\obj\Debug\BeatMonService.exe
+C:\Programming\BeatMonService\BeatMonService\obj\Debug\BeatMonService.pdb

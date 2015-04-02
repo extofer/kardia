@@ -1,0 +1,7 @@
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\bin\Debug\KardiaMonitorService.exe
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\bin\Debug\KardiaMonitorService.pdb
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.BeatMonitor.resources
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\BeatMonitorService.ProjectInstaller.resources
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\KardiaMonitorService.csproj.GenerateResource.Cache
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\KardiaMonitorService.exe
+C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\BeatMonitorService\obj\Debug\KardiaMonitorService.pdb

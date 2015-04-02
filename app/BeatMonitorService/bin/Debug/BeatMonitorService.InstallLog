@@ -1,0 +1,193 @@
+﻿Installing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Installing service BeatMonitor...
+Service BeatMonitor has been successfully installed.
+Creating EventLog source BeatMonitor in log Application...
+Committing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Removing EventLog source BeatMonitor.
+Service BeatMonitor is being removed from the system...
+Service BeatMonitor was successfully removed from the system.
+Installing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Installing service BeatMonitor...
+Service BeatMonitor has been successfully installed.
+Creating EventLog source BeatMonitor in log Application...
+Committing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Removing EventLog source BeatMonitor.
+Service BeatMonitor is being removed from the system...
+Service BeatMonitor was successfully removed from the system.
+Attempt to stop service BeatMonitor.
+Installing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Installing service BeatMonitor...
+Service BeatMonitor has been successfully installed.
+Creating EventLog source BeatMonitor in log Application...
+Committing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Removing EventLog source BeatMonitor.
+Service BeatMonitor is being removed from the system...
+Service BeatMonitor was successfully removed from the system.
+Installing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Installing service BeatMonitor...
+Service BeatMonitor has been successfully installed.
+Creating EventLog source BeatMonitor in log Application...
+Committing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Removing EventLog source BeatMonitor.
+Service BeatMonitor is being removed from the system...
+Service BeatMonitor was successfully removed from the system.
+Installing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Installing service BeatMonitor...
+Service BeatMonitor has been successfully installed.
+Creating EventLog source BeatMonitor in log Application...
+Committing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Removing EventLog source BeatMonitor.
+Service BeatMonitor is being removed from the system...
+Service BeatMonitor was successfully removed from the system.
+Installing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Installing service BeatMonitor...
+Service BeatMonitor has been successfully installed.
+Creating EventLog source BeatMonitor in log Application...
+Committing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Removing EventLog source BeatMonitor.
+Service BeatMonitor is being removed from the system...
+Service BeatMonitor was successfully removed from the system.
+Uninstalling assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Removing EventLog source BeatMonitor.
+Warning: The source BeatMonitor is not registered on the local machine.
+Service BeatMonitor is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Installing service BeatMonitor...
+Service BeatMonitor has been successfully installed.
+Creating EventLog source BeatMonitor in log Application...
+Committing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Removing EventLog source BeatMonitor.
+Service BeatMonitor is being removed from the system...
+Service BeatMonitor was successfully removed from the system.
+Installing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Installing service BeatMonitor...
+Service BeatMonitor has been successfully installed.
+Creating EventLog source BeatMonitor in log Application...
+Committing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Removing EventLog source BeatMonitor.
+Service BeatMonitor is being removed from the system...
+Service BeatMonitor was successfully removed from the system.
+Installing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog
+Installing service BeatMonitor...
+Service BeatMonitor has been successfully installed.
+Creating EventLog source BeatMonitor in log Application...
+Committing assembly 'C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.exe
+   logfile = C:\Documents and Settings\gvilla\My Documents\Programming\BeatMonitorService\BeatMonitorService\bin\Debug\BeatMonitorService.InstallLog

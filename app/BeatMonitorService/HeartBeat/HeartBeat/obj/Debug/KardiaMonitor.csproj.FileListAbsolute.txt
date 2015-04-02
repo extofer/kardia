@@ -1,9 +1,0 @@
-C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\HeartBeat\HeartBeat\obj\Debug\HeartBeat.fHeartBeat.resources
-C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\HeartBeat\HeartBeat\obj\Debug\HeartBeat.fPowerShell.resources
-C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\HeartBeat\HeartBeat\obj\Debug\KaridaBeat.Properties.Resources.resources
-C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\HeartBeat\HeartBeat\obj\Debug\KardiaMonitor.csproj.GenerateResource.Cache
-C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\HeartBeat\HeartBeat\bin\Debug\KaridaBeat.exe.config
-C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\HeartBeat\HeartBeat\bin\Debug\KaridaBeat.exe
-C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\HeartBeat\HeartBeat\bin\Debug\KaridaBeat.pdb
-C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\HeartBeat\HeartBeat\obj\Debug\KaridaBeat.exe
-C:\Users\gvilla\Documents\Dev-Sandbox\BeatMonitorService\BeatMonitorService\HeartBeat\HeartBeat\obj\Debug\KaridaBeat.pdb
